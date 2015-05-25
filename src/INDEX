@@ -1,0 +1,9 @@
+lab001 - CPU hot stack.
+lab002 - waiting on accept().
+lab003 - 0 byte successful reads.
+lab004 - short lived cksum processes.
+lab005 - sync disk writes to a file.
+lab006 - CPU hot stacks.
+lab007 - asleep in function call.
+lab008 - sync disk writes to a file, with (syscall) latency outliers.
+lab013 - out of memory by recursion. tricky.
